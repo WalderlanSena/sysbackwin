@@ -4,6 +4,6 @@ Script para Backup no Windows
 
 #Exemplo do Software - Inicio do Programa
 
-![image](https://www.mentesvirtuaissena.com/img/Exemploimg01.png)
+![image](https://github.com/WalderlanSena/sysbackwin/blob/master/Exemploimg01.png)
 
 =============================================================
